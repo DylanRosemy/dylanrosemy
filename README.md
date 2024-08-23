@@ -1,5 +1,5 @@
 <h1>Hi, I'm Dylan! <br/><a href="https://github.com/DylanRosemy">Programmer</a>, <a href="https://www.linkedin.com/in/dylan-rosemy-582325293/">Cloud Engineer, Helpdesk,
-<h2>👨‍💻 Helpdesk Homelabs:</h2>
+<h2>👨‍💻 Dylan Rosemy:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
